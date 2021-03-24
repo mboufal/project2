@@ -29,13 +29,13 @@ nav#nav-bar ul li a:hover {
 	text-decoration: underline overline;
 	}
 	
-div#main{
-	float:left;
-	width: 25%;
+main{
+	float:right;
+	width: 60%;
 	margin: 0 5%;	
 }
 div#extras{
-	float: left;
-	width: 60%;
+	float: right;
+	width: 25%;
 	margin: 0 5% 0 0;
 }
