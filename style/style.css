@@ -28,3 +28,14 @@ nav#nav-bar ul li a:hover {
 #onpage{
 	text-decoration: underline overline;
 	}
+	
+div#main{
+	float:left;
+	width: 25%;
+	margin: 0 5%;	
+}
+div#extras{
+	float: left;
+	width: 60%;
+	margin: 0 5% 0 0;
+}
