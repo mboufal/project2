@@ -25,10 +25,16 @@ nav#nav-bar ul li a:hover {
 	background-color: #F0F8FF;
 }
 
+
+/* random */
 #onpage{
 	text-decoration: underline overline;
 	}
+
 /* ------------------------------------------------ */
+
+
+
 /* layout */
 main{
 	float:right;
