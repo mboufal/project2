@@ -31,10 +31,10 @@ nav#nav-bar ul li a:hover {
 	text-transform: uppercase;
 	}
 
-/* layout */
+/*----layout page 1---*/
 main{
 	float:right;
-	width: 60%;
+	width: 40%;
 	margin: 0 5%;	
 }
 div#extras{
@@ -48,9 +48,14 @@ div#extras{
 	width: 340px;
 	height: 340px;
 	padding: 20px;
-	border: 10 px dashed black;
 	margin:30px;
 }
+
+/*---layout page 2---*/
+
+
+
+
 /*---layout page 3---*/
 #wrapper {
 	width: 960px;
@@ -59,7 +64,7 @@ div#extras{
 }
 #funfacts {
 	float: left;
-	width: 650px;
+	width: 500px;
 	margin: 10px 20px;
 	outline: 2px dashed #0053ae;
 }
@@ -70,8 +75,8 @@ div#extras{
 
 #photos {
 	float: left;
-	width: 250px;
-	margin: 10px 20px 0 0;
+	width: 440px;
+	margin: 10px 10px 10px 10px;
 	outline: 2px dashed #dd0009;
 }
 img {
@@ -93,6 +98,7 @@ h1 {
 	text-align: center;
 	text-transform: uppercase;
 }
+
 h3{
 	color: #A52A2A;
 	font-family: 'Playfair Display', serif;
