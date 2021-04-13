@@ -59,15 +59,16 @@ div#extras{
 /*---layout page 3---*/
 #wrapper {
 	width: 960px;
-	margin: 0 auto;
-	outline: #ff7900 2px dashed;
+	margin: auto;
 }
+
 #funfacts {
 	float: left;
 	width: 500px;
 	margin: 10px 20px;
 	outline: 2px dashed #0053ae;
 }
+
 #footer{
 	clear: left;
 	padding: 15px;
